@@ -1,6 +1,6 @@
 # Caesar chiper encoder and decoder
 
-[EN]
+[EN]<br />
 How to use:
 
 * To encode put text in "Encode.txt"
@@ -12,7 +12,7 @@ Coded results:
 * Encoded results in EncodeResult.txt
 * Decoded results in DecodeResult.txt
 
-[LT]
+[LT]<br />
 Naudojimas:
 
 * Norėdami užkoduoti, įdėkite tesktą į "Encode.txt"
