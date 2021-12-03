@@ -19,7 +19,7 @@ Settings:
 * To change shift step edit file CaeserCipher.dll.config
 
 [LT]<br />
-Sukurtas užkoduoti/atkoduoti raides/skaičius/dažnai naudojamus simbloius
+Pritaikytas užkoduoti/atkoduoti raides/skaičius/dažnai naudojamus simbloius
 Naudojimas:
 
 * Norėdami užkoduoti, įdėkite tesktą į "Encode.txt"
