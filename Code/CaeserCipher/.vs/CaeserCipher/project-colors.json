@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e707e045-c7ae-4f07-b3ad-081cd3923298": {
+      "ProjectGuid": "e707e045-c7ae-4f07-b3ad-081cd3923298",
+      "DisplayName": "CaeserCipher",
+      "ColorIndex": 0
+    },
+    "84944c21-3730-4013-a2f2-65bf3527ddb3": {
+      "ProjectGuid": "84944c21-3730-4013-a2f2-65bf3527ddb3",
+      "DisplayName": "CeaserTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
